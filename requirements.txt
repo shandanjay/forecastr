@@ -15,11 +15,10 @@ tqdm>=4.36.1
 wheel>=0.37.0
 DateTime==4.3
 requests==2.20.1
-eventlet==0.24.1
+eventlet==0.25.1
 Flask==1.0.2
 Flask-SocketIO==3.0.2
 fbprophet
 gunicorn==19.9.0
 python-engineio==2.3.2
 python-socketio==2.0.0
-
